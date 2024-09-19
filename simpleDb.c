@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(void){
-    printf("Hello DB!\n");
+    printf("Hello DB2!\n");
 
 } 
